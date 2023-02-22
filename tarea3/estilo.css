@@ -1,0 +1,103 @@
+body{
+    background: #293133;
+}
+h1 {
+    width: 500px;
+    text-align: center;
+    position: relative;
+    margin: auto;
+    color: #2C2C2C;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    padding: 10px 15px;
+   
+}
+input{
+    position: relative;
+    display: inline-block;
+    width: 200px;
+    padding: 10px 0 10px 15px;
+    font-family: "Open Sans", sans;
+    font-weight: 400;
+    color: #377D6A;
+    background: #efefef;
+    border: 0;
+    border-radius: 6px;
+    outline: 0;
+}
+
+.box{
+    margin: auto;
+    width: 380px;
+    height: 420px;
+}
+label{
+    color: white;
+}
+
+.boton{
+    display: inline-flex;
+    height: 30px;
+    padding: 0;
+    background: #009578;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.boton:hover{
+    background: #008168;
+
+}
+.boton:active{
+    background: #006e58;
+}
+
+.boton_text{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 24px;
+    color: #fff;
+    height: 100%;
+}
+.m-input{
+    height: 30px;
+    padding:14px;
+}
+.btn-eliminar{
+    display: inline-flex;
+    height: 30px;
+    margin-left: 10px;
+    padding: 14px;
+    background: #e23434;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.btn-eliminar:hover{
+    background: #b82323;
+
+}
+.btn-eliminar:active{
+    background: #db1818;
+}
+.boton_text_eliminar{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 24px;
+    color: #fff;
+    height: 100%;
+}

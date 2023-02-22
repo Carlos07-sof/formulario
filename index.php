@@ -30,18 +30,21 @@
                         </tr>
                     </thead>
                     <tr>
-                        <td>Calculadora Basica</td>
+                        <td>Práctica 1. Calculadora Basica</td>
                         <td>Este Proyecto nos ayudara a realizar las tareas mas comunes</td>
                         <td><a href="tarea1/calculadora.php"><img src="images/enlace.png" width="15px" height="15px"></a></td>
 
                     </tr>
                     <tr>
-                        <td>RFC-API</td>
+                        <td>Práctica 2. RFC-API</td>
                         <td>Generar RFC & Consultar Una Api</td>
                         <td><a href="tarea2/rfcApi.php"><img src="images/enlace.png" width="15px" height="15px"></a></td>
-
                     </tr>
-
+                    <tr>
+                        <td>Práctica 3. Formulario dinámico</td>
+                        <td>Añadir y eliminar elementos inputs</td>
+                        <td><a href="tarea3/formulario.php"><img src="images/enlace.png" width="15px" height="15px"></a></td>
+                    </tr>
                 </table>
             </div>
         </div>
